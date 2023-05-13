@@ -68,3 +68,7 @@ rt.setup({
     end,
   },
 })
+
+lsp.tsserver.setup({
+  on_attach = on_attach,
+})

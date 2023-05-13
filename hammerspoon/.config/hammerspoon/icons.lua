@@ -7,6 +7,7 @@ return {
   ["Preview"] = " ",
   ["Discord"] = "󰙯 ",
   ["Firefox"] = "󰈹 ",
+  ["Postman"] = "󰛶 ",
   ["Telegram"] = " ",
   ["Messages"] = "󰍡 ",
   ["Obsidian"] = "󰮊 ",
